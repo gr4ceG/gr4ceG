@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gr4ceG
-- 👀 I’m interested in anything cool
-- 🌱 I’m currently learning about cv and llms 🤩
-- 💞️ I’m looking to collaborate ...
+- 👀 I’m interested in anything cv/ml 
+- 🌱 I’m currently learning about robots
+- 💞️ I’m looking to collaborate on any cool projects
 - 📫 How to reach me: graceguo.010@gmail.com
 
 <!---
